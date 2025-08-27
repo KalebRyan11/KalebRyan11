@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+ My name Is Kaleb Ryan
+ I am A BSCS studnet at Wright State University.
 <!--
 **KalebRyan11/KalebRyan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
