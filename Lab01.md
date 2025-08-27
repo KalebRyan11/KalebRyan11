@@ -1,11 +1,11 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Kaleb Ryan
+- Email: ryna.177@wringt.edu
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. [https://github.com/KalebRyan11)
 
 ## Part 2 - Research
 
@@ -41,9 +41,9 @@ My Command Line Shell is:
 6. Return to your user's home directory: cd "C:\Users\kaleb"
 7. Create a file named `test.txt`: New-Item test.txt
 8. Move the file named `test.txt` into `DirA`: Move-Item test.txt DirA
-9. Contents of `test.txt`: Get-Content test.txt
+9. Contents of `test.txt`: notepad.exe test.txt
 ```
-Put your words here
+This text file is a test file for Lab01 in my computer engineering class.
 ```
 10. Make a copy of `test.txt` named `copy.txt` in `DirA`: Copy-Item test.txt copy.txt
 11. View the contents of `DirA`: Get-ChildItem
