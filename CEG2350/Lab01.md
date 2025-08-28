@@ -52,7 +52,7 @@ This text file is a test file for Lab01 in my computer engineering class.
 
 ## Citations
 
-To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
+USed the help command for action for the help command
 
 
 
