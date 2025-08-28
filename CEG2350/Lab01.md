@@ -1,7 +1,7 @@
 ## Lab 01
 
 - Name: Kaleb Ryan
-- Email: ryna.177@wringt.edu
+- Email: ryan.177@wringt.edu
 
 ## Part 1 - GitHub Profile
 
